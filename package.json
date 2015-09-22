@@ -1,0 +1,36 @@
+{
+  "name": "whitespace-regex",
+  "description": "Regular expression for matching the whitespace in a string.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jonschlinkert/whitespace-regex",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "repository": "jonschlinkert/whitespace-regex",
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/whitespace-regex/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "keywords": [],
+  "verb": {
+    "related": {
+      "list": [
+        "todo-regex",
+        "is-equal-regex",
+        "copyright-regex"
+      ]
+    }
+  }
+}
