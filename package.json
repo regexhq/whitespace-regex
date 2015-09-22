@@ -1,7 +1,7 @@
 {
   "name": "whitespace-regex",
   "description": "Regular expression for matching the whitespace in a string.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/regexps/whitespace-regex",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "repository": "regexps/whitespace-regex",
@@ -19,11 +19,24 @@
   "scripts": {
     "test": "mocha"
   },
-  "dependencies": {},
   "devDependencies": {
     "mocha": "*"
   },
-  "keywords": [],
+  "keywords": [
+    "count",
+    "detect",
+    "exec",
+    "expression",
+    "find",
+    "match",
+    "regex",
+    "regexp",
+    "regular",
+    "space",
+    "split",
+    "test",
+    "whitespace"
+  ],
   "verb": {
     "related": {
       "list": [
