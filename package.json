@@ -1,12 +1,12 @@
 {
   "name": "whitespace-regex",
   "description": "Regular expression for matching the whitespace in a string.",
-  "version": "0.1.0",
-  "homepage": "https://github.com/jonschlinkert/whitespace-regex",
+  "version": "0.1.1",
+  "homepage": "https://github.com/regexps/whitespace-regex",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
-  "repository": "jonschlinkert/whitespace-regex",
+  "repository": "regexps/whitespace-regex",
   "bugs": {
-    "url": "https://github.com/jonschlinkert/whitespace-regex/issues"
+    "url": "https://github.com/regexps/whitespace-regex/issues"
   },
   "license": "MIT",
   "files": [
